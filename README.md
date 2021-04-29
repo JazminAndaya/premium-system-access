@@ -41,7 +41,7 @@ You can request a Premium System Access thru
     ** Premium Float Access is being provided together with your Premium Access Request. 
 1. KEAHP Client<br>
     KEAHP Client is being use to access Premium system for HK.<br>
-        ![KEAHP Client](images/KEAHP_Client.jpg)<br>
+        ![KEAHP Client](images/KEAHP_Client.JPG)<br>
     ** If this tool is not available on your local machine or VDI, you may request a ticket for installation. 
 
 ## Validation Premium Access
@@ -53,16 +53,16 @@ When everything is already set-up and you have recived your Premium System Acces
 1. Click on *Floating-W10-Premium*
 1. After accessing the server you will see Premium applicaiton on the desktop with its designated DB Name. 
 1. Double click the icon of the server you want to access and log-in thru the credentials provided. <br>
-![Premium Login](premium_login.jpg)
+![Premium Login](images/premium_login.JPG)
 1. After logging-in, you will notice that some of the numbers on the screen are blank. This means that you are either don't have access or it is not set-up to your account. <br>
 <br>
 To navigate, you may use arrow keys and *enter* when selecting an option. To go back on the previous menu just click *F4*.<br>
-![Premium Screen](premium_screen.jpg)<br>
+![Premium Login](images/premium_login.JPG)<br>
 **Be careful on with the update or write menus when you are on the production environment. 
 <br>
 ### For HK 
 1. Open your KEAHP Client and log-in thru the credentials provided.
-![Premium HK](premium_hk.jpg)
+![Premium Login](images/premium_login.JPG)
 1. Basically, all commands and options are the same as Premium SG and LB, the only difference is that you need to access the HK server thru KEAHP Client. <br>
 <br>
 ** Make sure to update your password on your first log-in
