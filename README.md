@@ -31,7 +31,7 @@ You can request a Premium System Access thru
 1. Request a ticket under "Support Center" 
 1. Contact the Support Center by Submitting a Ticket 
 1. Go under "Application" 
-1. Fill-out the form with below details. ![Detials](.details.jpg)
+1. Fill-out the form with below details.
 
 ## Premium System Tools
 
