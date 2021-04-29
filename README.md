@@ -31,13 +31,13 @@ You can request a Premium System Access thru
 1. Request a ticket under "Support Center" 
 1. Contact the Support Center by Submitting a Ticket 
 1. Go under "Application" 
-1. Fill-out the form with below details. ![Detials](details.jpg)
+1. Fill-out the form with below details. ![Detials](.details.jpg)
 
 ## Premium System Tools
 
 1. Premium Float <br>
     Premium Float is being use to access Premium System SG and LB. This can be access via VDI (VMware Horizon Client)<br>
-        ![premium-float](premium_float.jpg)<br>
+        ![premium-float](.premium_float.jpg)<br>
     ** Premium Float Access is being provided together with your Premium Access Request. 
 1. KEAHP Client<br>
     KEAHP Client is being use to access Premium system for HK.<br>
