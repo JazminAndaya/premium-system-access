@@ -56,7 +56,7 @@ When everything is already set-up and you have received your Premium System Acce
 1. Double click the icon of the server you want to access and log-in thru the credentials provided. <br>
 ![Premium Login](images/premium_login.JPG)
 1. After logging-in, you will notice that some of the numbers on the screen are blank. This means that you are either don't have access or it is not set-up to your account. <br>
-To navigate, you may use arrow keys and *enter* when selecting an option. To go back on the previous menu just click *F4*.<br>!![Premium Screen](images/premium_screen.JPG)<br>
+To navigate, you may use arrow keys and *enter* when selecting an option. To go back on the previous menu just click *F4*.<br>![Premium Screen](images/premium_screen.JPG)<br>
 **Be careful on with the update or write menus when you are on the production environment. 
 ### For HK 
 1. Open your KEAHP Client and log-in thru the credentials provided.
