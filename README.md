@@ -51,7 +51,7 @@ When everything is already set-up and you have recived your Premium System Acces
 1. Open VDI (VMware Horizon Client) 
 1. Access *desktopap.awacgbl.com* and log-in using your windows account  
 1. Click on *Floating-W10-Premium*
-1. After accessing the server you will see Premium applicaiton on the desktop with its designated DB Name. 
+1. After accessing the server, you will see Premium applicaiton on the desktop with its designated DB Name. 
 1. Double click the icon of the server you want to access and log-in thru the credentials provided. <br>
 ![Premium Login](images/premium_login.JPG)
 1. After logging-in, you will notice that some of the numbers on the screen are blank. This means that you are either don't have access or it is not set-up to your account. <br>
