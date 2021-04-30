@@ -62,7 +62,6 @@ To navigate, you may use arrow keys and *enter* when selecting an option. To go 
 1. Open your KEAHP Client and log-in thru the credentials provided.
 ![Premium Login](images/premium_login.JPG)
 1. Basically, all commands and options are the same as Premium SG and LB, the only difference is that you need to access the HK server thru KEAHP Client. <br>
-<br>
 ** Make sure to update your password on your first log-in
 
 
