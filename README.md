@@ -23,8 +23,8 @@ Below are the Premium System Servers for APAC
 
 ## Requesting for Premium System Access
 
-**IMPORTANT**
-<sub><sup>Most of the cases, the manager is the one to request for your access. If confirmed that you don't have an open ticket for the Premium System Access please proceed below, else you may skip this steps.</sub></sup><br>
+**IMPORTANT**<br>
+*Most of the cases, the manager is the one to request for your access. If confirmed that you don't have an open ticket for the Premium System Access please proceed below, else you may skip this steps.*<br>
 Always keep in mind the region and environment that you need an access for Premium system. Usually, SG, HK and LB are the typical access being provided for APAC. 
 
 You can request a Premium System Access thru 
